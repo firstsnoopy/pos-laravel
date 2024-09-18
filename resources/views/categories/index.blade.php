@@ -4,7 +4,7 @@
 @section('content')
     <div class="table-responsive">
         <div align="right" class="mb-3">
-            <a href="{{ route('category.create') }}" class="btn btn-primary">Tambah</a>
+            <a href="{{ route('category.create') }}" class="btn btn-primary">Tambah Kategori</a>
         </div>
         <table class="table table-bordered">
             <thead>
